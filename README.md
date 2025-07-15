@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Gamito
 
-<!--
-**samuelgamito/samuelgamito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Staff Engineer passionate about designing scalable, high-performance systems. I currently lead multiple squads at Mercado Livre, focusing on distributed architecture, observability, and cost-optimized infrastructure.
 
-Here are some ideas to get you started:
+🔧 **Languages & Tools**: Golang | Java | Kubernetes | Redis | Pub/Sub | React  
+🚀 **Specialties**: Event-driven architecture, CQRS, SSE, CI/CD, mentoring  
+🌍 Open to global opportunities in backend/platform engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Featured Projects
+- **[rfi-manager](https://github.com/samuelgamito/rfi-manager)** — RFID inventory system (event-based)
+- **[cpp-cnn](https://github.com/samuelgamito/cpp-cnn)** — Neural network from scratch in C++
+- **[lock-ring](https://github.com/samuelgamito/lock-ring)** — Lock system simulation in Golang
+
+Let's connect → [LinkedIn](https://www.linkedin.com/in/samuel-gamito/)
