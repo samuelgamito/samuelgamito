@@ -1,14 +1,16 @@
-# 👋 Hi, I'm Samuel Gamito
+# 👋 Hi, I’m Samuel Gamito
 
-I'm a Staff Engineer passionate about designing scalable, high-performance systems. I currently lead multiple squads at Mercado Livre, focusing on distributed architecture, observability, and cost-optimized infrastructure.
+I'm a **Staff Engineer** leading scalable, event-driven systems at Mercado Livre.
 
-🔧 **Languages & Tools**: Golang | Java | Kubernetes | Redis | Pub/Sub | React  
-🚀 **Specialties**: Event-driven architecture, CQRS, SSE, CI/CD, mentoring  
-🌍 Open to global opportunities in backend/platform engineering
+🔭 I’m currently working on:
+- Kafka- & Redis-based microservices for real-time platforms
+- Platform reliability & cost efficiency at scale
 
-## 🔧 Featured Projects
-- **[rfi-manager](https://github.com/samuelgamito/rfi-manager)** — RFID inventory system (event-based)
-- **[cpp-cnn](https://github.com/samuelgamito/cpp-cnn)** — Neural network from scratch in C++
-- **[lock-ring](https://github.com/samuelgamito/lock-ring)** — Lock system simulation in Golang
+🌱 I’m learning:
+- DDD & CQRS patterns
+- Testing & observability at large scale
 
-Let's connect → [LinkedIn](https://www.linkedin.com/in/samuel-gamito/)
+💬 Ask me about: Golang, Java, Kubernetes, SSE, Pub/Sub
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/samuel-gamito/)
